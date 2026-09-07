@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VpnAuto</string>
+    <string name="service_desc">Следит за активным приложением и поднимает нужный сервер v2rayNG для выбранных приложений.</string>
+    <string name="status_on">Служба работает</string>
+    <string name="status_off">Служба выключена</string>
+    <string name="status_on_hint">VPN включается сам при входе в отмеченные приложения</string>
+    <string name="status_off_hint">Нажми, чтобы включить в спец. возможностях. Если пункт серый: Настройки → Приложения → VpnAuto → ⋮ → Разрешить ограниченные настройки</string>
+    <string name="delay_title">Выключать через</string>
+    <string name="delay_value">%d с</string>
+    <string name="delay_hint">после выхода из приложения</string>
+    <string name="search_hint">Найти приложение</string>
+    <string name="section_with">С VPN</string>
+    <string name="section_without">Остальные</string>
+    <string name="empty_rules">Нажми «+» напротив приложения и выбери сервер из v2rayNG</string>
+    <string name="add">+</string>
+    <string name="rule_change">Выбрать другой сервер</string>
+    <string name="rule_remove">Убрать VPN для этого приложения</string>
+    <string name="no_v2rayng">v2rayNG не установлен</string>
+    <string name="pick_hint">В v2rayNG отметь сервер и нажми галочку сверху</string>
+    <string name="battery_title">Не усыплять приложение</string>
+    <string name="battery_hint">Иначе One UI остановит службу через пару часов</string>
+    <string name="battery_ok">Разрешено</string>
+    <string name="battery_fix">Разрешить</string>
+</resources>

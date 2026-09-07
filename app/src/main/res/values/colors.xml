@@ -1,0 +1,19 @@
+<resources>
+    <color name="bg">#0A0F1A</color>
+    <color name="bg_top">#111A2B</color>
+    <color name="surface">#161F30</color>
+    <color name="surface_top">#1C2740</color>
+    <color name="surface_high">#232F47</color>
+    <color name="surface_high_top">#2B3A56</color>
+    <color name="stroke">#2A3752</color>
+    <color name="stroke_light">#3A4A6B</color>
+    <color name="text">#F3F6FC</color>
+    <color name="text_muted">#8291AE</color>
+    <color name="teal">#2EE6C5</color>
+    <color name="teal_deep">#17B89C</color>
+    <color name="teal_glow">#332EE6C5</color>
+    <color name="teal_dim">#12312F</color>
+    <color name="danger">#FF6B57</color>
+    <color name="danger_glow">#33FF6B57</color>
+    <color name="danger_dim">#3A1F1B</color>
+</resources>

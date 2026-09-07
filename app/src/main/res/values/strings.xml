@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">VpnAuto</string>
+    <string name="service_desc">Watches the foreground app and starts the chosen v2rayNG server for selected apps.</string>
+    <string name="status_on">Service is running</string>
+    <string name="status_off">Service is off</string>
+    <string name="status_on_hint">VPN turns on by itself when you open a selected app</string>
+    <string name="status_off_hint">Tap to enable in Accessibility. If the item is greyed out: Settings → Apps → VpnAuto → ⋮ → Allow restricted settings</string>
+    <string name="delay_title">Turn off after</string>
+    <string name="delay_value">%d s</string>
+    <string name="delay_hint">once you leave the app</string>
+    <string name="search_hint">Find an app</string>
+    <string name="section_with">With VPN</string>
+    <string name="section_without">Other apps</string>
+    <string name="empty_rules">Tap “+” next to an app and pick a server from v2rayNG</string>
+    <string name="add">+</string>
+    <string name="rule_change">Choose another server</string>
+    <string name="rule_remove">Remove VPN for this app</string>
+    <string name="no_v2rayng">v2rayNG is not installed</string>
+    <string name="pick_hint">In v2rayNG select a server and tap the check mark</string>
+    <string name="battery_title">Keep app awake</string>
+    <string name="battery_hint">Otherwise One UI will stop the service after a while</string>
+    <string name="battery_ok">Allowed</string>
+    <string name="battery_fix">Allow</string>
+</resources>
